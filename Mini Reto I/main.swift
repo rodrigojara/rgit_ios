@@ -28,6 +28,6 @@ for i in 0...100{
     
     // Si el numero es 30 <= i <= 100
     if i >= 30 && i <= 40{
-        print ("\(i) Viva Suift!!!")
+        print ("\(i) Viva Swift!!!")
     }
 }
